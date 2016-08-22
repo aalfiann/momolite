@@ -19,13 +19,7 @@ Apa saja fitur dalam momo library lite version ini?
 
 =================================================================================
 
-Jika Anda menemukan bugs di dalam momo Library, maka hubungi saya di aalfiann@gmail.com atau Anda bisa ikut berkontribusi untuk mengembangkan source code ini.
+Anda bisa ikut berkontribusi untuk mengembangkan source code ini.
 
 Untuk cara penggunaan dan dokumentasi akan di posting di website http://javelinee.com
 
-Terima kasih telah menggunakan momo Library lite version secara gratis.
-
-==
-
-M ABD AZIZ ALFIAN
-Founder and Developer momo library
