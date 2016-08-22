@@ -19,7 +19,6 @@ Apa saja fitur dalam momo library lite version ini?
 
 =================================================================================
 
-Anda bisa ikut berkontribusi untuk mengembangkan source code ini.
+Anda dapat ikut berkontribusi dalam mengembangkan source code ini.
 
 Untuk cara penggunaan dan dokumentasi akan di posting di website http://javelinee.com
-
