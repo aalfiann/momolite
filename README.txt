@@ -55,13 +55,6 @@ Contoh app.config untuk x64 sebagai berikut:
 
 =================================================================================
 
-Jika Anda menemukan bugs di dalam momo Library, maka hubungi saya di aalfiann@gmail.com.
+Anda dapat ikut berkontribusi dalam mengembangkan source code ini.
 
 Untuk cara penggunaan dan dokumentasi akan di posting di website http://javelinee.com
-
-Terima kasih telah menggunakan momo Library lite version secara gratis.
-
-==
-
-M ABD AZIZ ALFIAN
-Founder and Developer momo library
