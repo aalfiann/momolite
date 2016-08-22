@@ -1,0 +1,15 @@
+momo library lite version menggunakan beberapa open source library 3rd party untuk membuat kode Anda lebih bersih dan cepat dalam pengembangan aplikasi.
+
+Ucapkan terima kasih kepada:
+1. MySQL Connector >> http://oracle.com
+2. SQLite Connector >> http://sqlite.org
+3. Newtonsoft.Json >> http://json.codeplex.com
+4. SharpZipLib >> http://icsharpcode.github.io/SharpZipLib
+5. Firebird Connector >> http://www.firebirdsql.org/en/devel-net-provider
+6. PostgreSQL Connector >> http://www.npgsql.org
+7. Excel Data Reader >> http://exceldatareader.codeplex.com
+8. Mono.Security >> http://www.mono-project.com
+
+Catatan: 
+- Beberapa library telah saya modifikasi, di recompile atau di rebuild ulang agar supaya momo library dapat berjalan dengan semestinya.
+- Jika Anda menggantinya dengan original atau versi terbaru dari library 3rd party itu sendiri, mungkin beberapa akan error di momo libary.

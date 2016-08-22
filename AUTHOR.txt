@@ -1,0 +1,10 @@
+/**
+ * momo library .Net 4.0 lite version
+ * 
+ * @version: 1.39.0.0
+ * @release: 22 August 2016
+ * @author: M ABD AZIZ ALFIAN <http://fb.com/azizalfian>
+ * @website: http://about.me/azizalfian
+ * @copyright 2016 - momo library, M ABD AZIZ ALFIAN
+ * 
+ */
